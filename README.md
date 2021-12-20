@@ -1,4 +1,4 @@
-# python_UDP_pinger
+# python UDP pinger
 
 
 python3 client.py
